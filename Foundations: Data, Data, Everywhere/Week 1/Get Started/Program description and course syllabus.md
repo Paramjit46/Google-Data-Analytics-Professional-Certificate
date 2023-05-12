@@ -31,4 +31,38 @@ A list of all 8 courses and their titles. Course 1 (Foundations: data, data, eve
 
 - Introducing data analytics: Data helps us make decisions, in everyday life and in business. In this first part of the course, you will learn how data analysts use tools of their trade to inform those decisions. You will also get to know more about this course and the overall program expectations.
 - Thinking analytically: Data analysts balance many different roles in their work. In this part of the course, you will learn about some of these roles and the key skills that are required. You will also explore analytical thinking and how it relates to data-driven decision making.
-- Exploring the wonderful world of data: Data has its own life cycle, and data analysts use an analysis process that cuts across and leverages this life cycle. In this part of the course, you will learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the
+- Exploring the wonderful world of data: Data has its own life cycle, and data analysts use an analysis process that cuts across and leverages this life cycle. In this part of the course, you will learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the job as a Future Data Analyst. You will be introduced to applications that help guide data through the data analysis process.
+- Setting up a Data Toolbox: Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you will learn the basic concepts to use them for data analysis. You will understand how they work through examples provided.
+- Discovering data career possibilities: All kinds of businesses value the work that data analysts do. In this part of the course, you will examine different types of businesses and the jobs and tasks that analysts do for them. You will also learn how a Google Data Analytics Certificate will help you meet many of the requirements for a position with these organizations.
+- Completing the Course Challenge: At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
+
+## What to Expect
+
+Each week of the course offers a range of learning opportunities, including:
+
+- Videos: Instructors will teach new concepts and demonstrate the use of tools.
+- Readings: Introduce new ideas and expand on concepts covered in the videos.
+- Discussion forums: Engage in discussions, share insights, and reinforce lesson topics.
+- Discussion prompts: Encourage critical thinking and active participation in the forums.
+- Practice quizzes: Prepare you for graded quizzes by testing your knowledge.
+- Graded quizzes: Assess your progress and provide valuable feedback.
+- Also, be sure to pay attention to the in-video questions that will pop up from time to time. They are designed for you to check your learning.
+
+Everyone learns differently, so this program has been designed to let you work at your own pace. Although your personalized deadlines start when you enroll, they are just a guide. Feel free to move through the program at the speed that works best for you. There is no penalty for late assignments; to earn your certificate, all you have to do is complete all of the work. If you prefer, you can extend your deadlines by returning to Overview in the navigation panel and clicking Switch Sessions. Assessments are based on the approach taken by the course to offer a wide variety of learning materials and activities that reinforce important skills. Graded and ungraded quizzes will help the content sink in. Ungraded practice quizzes are a chance for you to prepare for the graded quizzes. Both types of quizzes can be taken more than one time.
+
+# Optional Speed Track for Experienced Data Analysts
+
+The Google Data Analytics Certificate provides instruction and feedback for learners hoping to earn a position as an entry-level data analyst. While many learners will be brand new to the world of data analytics, others may be familiar with the field and simply wanting to brush up on certain skills. 
+
+If you believe this course will be primarily a refresher for you, we recommend taking the practice diagnostic quiz (you can find it in this week's content). It will enable you to determine if you should follow the speed track, which is an opportunity to proceed to Course 2 after having taken each of the Course 1 Weekly Challenges and the overall Course Challenge. Learners who score 100% on the diagnostic quiz can treat Course 1 videos, readings, and activities as optional. Learners following the speed track are still able to earn the certificate. 
+
+## Tips
+
+- It is strongly recommended to take these courses—and go through the items in each lesson—in the order they appear because new information and concepts build on previous knowledge. 
+- Use the additional resources that are linked throughout the program. They are designed to support your learning. 
+- When you encounter useful links in the course, remember to bookmark them so you can refer to the information for study or review.
+- Additional resources are free, but some sites place limits on how many articles can be accessed for free each month. Sometimes you can register on the site for full access, but you can always bookmark a resource and come back to view it later.
+- If something is confusing, don’t hesitate to re-watch a video, go through a reading again, and so on.
+- Take part in all learning opportunities to gain as much knowledge and experience as possible. 
+
+Congratulations on choosing to take this first step toward becoming part of the wonderful world of data analytics. Enjoy the journey!
