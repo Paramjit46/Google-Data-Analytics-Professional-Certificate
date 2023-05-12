@@ -18,12 +18,12 @@ A list of all 8 courses and their titles. Course 1 (Foundations: data, data, eve
 
 - Foundations: Data, Data, Everywhere (this course)
 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
-- Prepare Data for Exploration
-- Process Data from Dirty to Clean
-- Analyze Data to Answer Questions
-- Share Data Through the Art of Visualization
-- Data Analysis with R Programming
-- Google Data Analytics Capstone: Complete a Case Study
+- [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation/home/welcome)
+- [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data/home/welcome)
+- [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data/home/welcome)
+- [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data/home/welcome)
+- [Data Analysis with R Programming](https://coursera.org/learn/data-analysis-r/home/welcome)
+- [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/learn/google-data-analytics-capstone/home/welcome)
 
 ## Course Content
 
@@ -42,7 +42,7 @@ Each week of the course offers a range of learning opportunities, including:
 
 - Videos: Instructors will teach new concepts and demonstrate the use of tools.
 - Readings: Introduce new ideas and expand on concepts covered in the videos.
-- Discussion forums: Engage in discussions, share insights, and reinforce lesson topics.
+- [Discussion forums](https://www.coursera.org/learn/foundations-data/discussions): Engage in discussions, share insights, and reinforce lesson topics.
 - Discussion prompts: Encourage critical thinking and active participation in the forums.
 - Practice quizzes: Prepare you for graded quizzes by testing your knowledge.
 - Graded quizzes: Assess your progress and provide valuable feedback.
