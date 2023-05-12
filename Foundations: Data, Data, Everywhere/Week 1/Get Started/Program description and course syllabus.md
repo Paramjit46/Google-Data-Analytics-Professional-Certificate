@@ -1,70 +1,529 @@
-  # Program Description and Course Syllabus
-<img align="centre" width="1050" src="https://github.com/Paramjit46/Google-Data-Analytics-Professional-Certificate/blob/main/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Week%201/Get%20Started/Welcome.png">
+::: WordSection1
+### [1. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**[Optional]{style="font-family:
+\"unset\",serif;color:#1F1F1F;letter-spacing:-.1pt"}**[ speed track for those experienced in data analytics]{style="font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F;letter-spacing:
+-.1pt"} {#optional-speed-track-for-those-experienced-in-data-analytics style="margin:0cm;background:white"}
 
-## Welcome to the Google Data Analytics Certificate
+[ ]{style="font-size:10.5pt;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-Hello and welcome! The program you are about to explore is specifically designed to help every type of learner successfully finish the certificate and become an entry-level junior or associate data analyst. No previous data analytics, mathematics, or statistical experience is required. To succeed, you just need to be open to learning how data influences the world.
+[The Google Data Analytics Certificate provides instruction and feedback
+for learners hoping to earn a position as an entry-level data analyst.
+While many learners will be brand new to the world of data analytics,
+others may be familiar with the field and simply wanting to brush up on
+certain
+skills. ]{style="font-size:10.5pt;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-## Become Job-Ready
+**[If you believe this course will be primarily a refresher for you, we
+recommend taking this practice diagnostic
+quiz.]{style="font-size:10.5pt;font-family:\"unset\",serif;
+color:#1F1F1F"}**[ It will enable you to determine if you should follow
+the speed track, which is an opportunity to proceed to Course 2 after
+taking each of the Course 1 Weekly Challenges and the overall Course
+Challenge. Learners who earn 100% on the diagnostic quiz can treat
+Course 1 videos, readings, and activities as optional. Learners
+following the speed track are still able to earn the certificate.
+]{style="font-size:10.5pt;font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-Every day, the amount of data out there gets bigger and bigger. So the ability to interpret it effectively is more important than ever before. Data analytics is becoming one of the fastest-growing and most rewarding career choices in the world. In the next decade, the demand for business analytics skills will probably be higher than the demand for any other career (10.9% vs. 5.2%) (Source: Bureau of Labor Statistics). All kinds of companies all over the world need qualified data analysts to solve problems and help them make the best possible business decisions. And right now, fifty-nine percent of companies have plans to add even more positions requiring data analysis skills (Source: SHRM). By the time you are done with this program, you will be well-prepared to make smart, strategic, data-driven recommendations for organizations in all kinds of industries.
+**[If you aren\'t familiar with data analytics, this course was made for
+you! Feel free to skip this quiz and move forward through all of the
+course material. ]{style="font-size:10.5pt;font-family:\"unset\",serif;
+color:#1F1F1F"}**
 
-During each course of the program, you will complete lots of hands-on assignments and projects based on both day-to-day life and the practical activities of a data analyst. Along the way, you will learn how to ask the right questions and understand objectives. You will also learn how to effectively clean and organize large amounts of data to make it ready for high-quality analysis. On top of that, you will get hands-on experience using all kinds of tools and techniques that will help you recognize patterns and uncover relationships between data points. And to help you communicate the results of your analysis, you will learn how to design visuals and dashboards. There is even an opportunity to create a case study, which you can highlight in your resume to show what you have learned to potential employers.
+[Get ready to take the next step in your data analytics journey with the
+question below!
+]{style="font-size:10.5pt;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-## Course Overview
+[![](Program%20description%20and%20course%20syllabus_files/image001.png){#Picture 3
+width="602" height="5"}]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-The entire program has eight courses. This is the first course, and it covers about five weeks of material.
+[A clothing retailer collects and stores data about its sales revenue.
+Which of the following would be part of its data ecosystem? Select all
+that apply.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-<img align="centre" width="1050" src="https://github.com/Paramjit46/Google-Data-Analytics-Professional-Certificate/blob/main/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Week%201/Get%20Started/Course%20Overview.png">
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
 
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[The
+database of sales
+revenue]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-- Foundations: Data, Data, Everywhere (this course)
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
-- [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation/home/welcome)
-- [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data/home/welcome)
-- [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data/home/welcome)
-- [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data/home/welcome)
-- [Data Analysis with R Programming](https://coursera.org/learn/data-analysis-r/home/welcome)
-- [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/learn/google-data-analytics-capstone/home/welcome)
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
 
-## Course Content
+[The clothing retailer's data ecosystem would include the database of
+sales revenue, the cloud that stores the database, and records of its
+inventory. A data ecosystem is the various elements that interact with
+one another in order to produce, manage, store, organize, analyze, and
+share data.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-### Course 1 – Foundations: Data, Data, Everywhere
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Records
+of its
+inventory]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-- Introducing data analytics: Data helps us make decisions, in everyday life and in business. In this first part of the course, you will learn how data analysts use tools of their trade to inform those decisions. You will also get to know more about this course and the overall program expectations.
-- Thinking analytically: Data analysts balance many different roles in their work. In this part of the course, you will learn about some of these roles and the key skills that are required. You will also explore analytical thinking and how it relates to data-driven decision making.
-- Exploring the wonderful world of data: Data has its own life cycle, and data analysts use an analysis process that cuts across and leverages this life cycle. In this part of the course, you will learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the job as a Future Data Analyst. You will be introduced to applications that help guide data through the data analysis process.
-- Setting up a Data Toolbox: Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you will learn the basic concepts to use them for data analysis. You will understand how they work through examples provided.
-- Discovering data career possibilities: All kinds of businesses value the work that data analysts do. In this part of the course, you will examine different types of businesses and the jobs and tasks that analysts do for them. You will also learn how a Google Data Analytics Certificate will help you meet many of the requirements for a position with these organizations.
-- Completing the Course Challenge: At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
 
-## What to Expect
+[The clothing retailer's data ecosystem would include the database of
+sales revenue, the cloud that stores the database, and records of its
+inventory. A data ecosystem is the various elements that interact with
+one another in order to produce, manage, store, organize, analyze, and
+share data.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-Each week of the course offers a range of learning opportunities, including:
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[The
+cloud that store its
+database]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-- Videos: Instructors will teach new concepts and demonstrate the use of tools.
-- Readings: Introduce new ideas and expand on concepts covered in the videos.
-- [Discussion forums](https://www.coursera.org/learn/foundations-data/discussions): Engage in discussions, share insights, and reinforce lesson topics.
-- Discussion prompts: Encourage critical thinking and active participation in the forums.
-- Practice quizzes: Prepare you for graded quizzes by testing your knowledge.
-- Graded quizzes: Assess your progress and provide valuable feedback.
-- Also, be sure to pay attention to the in-video questions that will pop up from time to time. They are designed for you to check your learning.
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
 
-Everyone learns differently, so this program has been designed to let you work at your own pace. Although your personalized deadlines start when you enroll, they are just a guide. Feel free to move through the program at the speed that works best for you. There is no penalty for late assignments; to earn your certificate, all you have to do is complete all of the work. If you prefer, you can extend your deadlines by returning to Overview in the navigation panel and clicking Switch Sessions. Assessments are based on the approach taken by the course to offer a wide variety of learning materials and activities that reinforce important skills. Graded and ungraded quizzes will help the content sink in. Ungraded practice quizzes are a chance for you to prepare for the graded quizzes. Both types of quizzes can be taken more than one time.
+[The clothing retailer's data ecosystem would include the database of
+sales revenue, the cloud that stores the database, and records of its
+inventory. A data ecosystem is the various elements that interact with
+one another in order to produce, manage, store, organize, analyze, and
+share data.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
 
-# Optional Speed Track for Experienced Data Analysts
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[The
+databases of competing retailers
+]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-The Google Data Analytics Certificate provides instruction and feedback for learners hoping to earn a position as an entry-level data analyst. While many learners will be brand new to the world of data analytics, others may be familiar with the field and simply wanting to brush up on certain skills. 
+### [2. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[What is the process of guiding business strategy using facts?]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#what-is-the-process-of-guiding-business-strategy-using-facts style="margin:0cm;background:white"}
 
-If you believe this course will be primarily a refresher for you, we recommend taking the practice diagnostic quiz (you can find it in this week's content). It will enable you to determine if you should follow the speed track, which is an opportunity to proceed to Course 2 after having taken each of the Course 1 Weekly Challenges and the overall Course Challenge. Learners who score 100% on the diagnostic quiz can treat Course 1 videos, readings, and activities as optional. Learners following the speed track are still able to earn the certificate. 
+### [ ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#section style="margin:0cm;background:white"}
 
-## Tips
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Strategic
+improvement]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-- It is strongly recommended to take these courses—and go through the items in each lesson—in the order they appear because new information and concepts build on previous knowledge. 
-- Use the additional resources that are linked throughout the program. They are designed to support your learning. 
-- When you encounter useful links in the course, remember to bookmark them so you can refer to the information for study or review.
-- Additional resources are free, but some sites place limits on how many articles can be accessed for free each month. Sometimes you can register on the site for full access, but you can always bookmark a resource and come back to view it later.
-- If something is confusing, don’t hesitate to re-watch a video, go through a reading again, and so on.
-- Take part in all learning opportunities to gain as much knowledge and experience as possible. 
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Data-driven
+decision-making]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
 
-Congratulations on choosing to take this first step toward becoming part of the wonderful world of data analytics. Enjoy the journey!
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Analytical
+planning]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Identification
+of data and
+decisions]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Data-driven decision-making is the process of guiding business strategy
+using facts. ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-1 style="margin:0cm;background:white"}
+
+### [3. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[Fill in the blank: Curiosity, understanding context, having a technical mindset, data design, and data strategy are \_\_\_\_\_. They enable data analysts to solve problems using facts.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#fill-in-the-blank-curiosity-understanding-context-having-a-technical-mindset-data-design-and-data-strategy-are-_____.-they-enable-data-analysts-to-solve-problems-using-facts. style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[business
+skills]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[thought
+processes]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[personal
+insights]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[analytical
+skills]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Curiosity, understanding context, having a technical mindset, data
+design, and data strategy are analytical skills. They enable data
+analysts to solve problems using facts.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-2 style="margin:0cm;background:white"}
+
+### [4. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[The owner of a skate shop notices that every time a certain employee has a shift, there are higher sales numbers at the end of the day. After some investigation, the owner realizes that since the employee was hired, the store earns 15% more each month. In this scenario, the manager used which quality of analytical thinking?]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#the-owner-of-a-skate-shop-notices-that-every-time-a-certain-employee-has-a-shift-there-are-higher-sales-numbers-at-the-end-of-the-day.-after-some-investigation-the-owner-realizes-that-since-the-employee-was-hired-the-store-earns-15-more-each-month.-in-this-scenario-the-manager-used-which-quality-of-analytical-thinking style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Correlation]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Visualization]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Problem-orientation
+]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Big-picture
+thinking]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[The owner used correlation, which involves being able to identify a
+relationship between two or more pieces of data. They noticed that there
+is a correlation between the employee's presence and the skate shop's
+traffic and monthly income.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-3 style="margin:0cm;background:white"}
+
+### [5. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[Gap analysis is a process that could help accomplish which of the following tasks? Select all that apply.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#gap-analysis-is-a-process-that-could-help-accomplish-which-of-the-following-tasks-select-all-that-apply. style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Reduce
+a company's carbon footprint based on its current
+emissions]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Gap analysis is a method for examining and evaluating how a process
+works currently in order to get where you want to be in the future.
+Improving accessibility, increasing efficiency, and reducing carbon
+emissions are examples of improvements that gap analysis can help
+accomplish.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Spread
+awareness about income inequality based on local
+salaries]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Improve
+accessibility for an educational app based on its current
+functionality]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Gap analysis is a method for examining and evaluating how a process
+works currently in order to get where you want to be in the future.
+Improving accessibility, increasing efficiency, and reducing carbon
+emissions are examples of improvements that gap analysis can help
+accomplish.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Increase
+the efficiency of a car manufacturer based on its current assembly
+process]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Gap analysis is a method for examining and evaluating how a process
+works currently in order to get where you want to be in the future.
+Improving accessibility, increasing efficiency, and reducing carbon
+emissions are examples of improvements that gap analysis can help
+accomplish.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-4 style="margin:0cm;background:white"}
+
+### [6. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[An advertising firm has used insights from its analytics team to create a strategy for improving sales. Now, they implement a plan to increase annual revenue. The firm is at which step of the data analysis process?]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#an-advertising-firm-has-used-insights-from-its-analytics-team-to-create-a-strategy-for-improving-sales.-now-they-implement-a-plan-to-increase-annual-revenue.-the-firm-is-at-which-step-of-the-data-analysis-process style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Act]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Share]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Analyze]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Process]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[The act phase is when insights are put into action. This involves a
+company or organization implementing a plan to solve the original
+business problem. ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-5 style="margin:0cm;background:white"}
+
+### [7. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[A data analyst adds descriptive headers to columns of data in a spreadsheet. How does this improve the spreadsheet? ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#a-data-analyst-adds-descriptive-headers-to-columns-of-data-in-a-spreadsheet.-how-does-this-improve-the-spreadsheet style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+eliminates unnecessary
+details]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+adds
+context]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+improves the aesthetic
+appeal]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+clarifies the business strategy
+]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[Adding descriptive headers to columns of data in a spreadsheet adds
+context. Context is the condition in which something exists, such as a
+structure. ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-6 style="margin:0cm;background:white"}
+
+### [8. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[This is a selection from a spreadsheet that ranks the 10 most populous cities in North Carolina. To alphabetize the county names in column D, which spreadsheet tool would you use?]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#this-is-a-selection-from-a-spreadsheet-that-ranks-the-10-most-populous-cities-in-north-carolina.-to-alphabetize-the-county-names-in-column-d-which-spreadsheet-tool-would-you-use style="margin:0cm;background:white"}
+
+### [ ]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#section-7 style="margin:0cm;background:white"}
+
+  ---------------------------------------------------------- ---------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------------------- ---------------------------------------------------------------------------------------------
+                                                             [A]{style="font-family:\"Source Sans Pro\",sans-serif"}    [B]{style="font-family:\"Source Sans Pro\",sans-serif"}               [C]{style="font-family:\"Source Sans Pro\",sans-serif"}         [D]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [1]{style="font-family:\"Source Sans Pro\",sans-serif"}    **[Rank]{style="font-family:\"unset\",serif"}**            **[Name]{style="font-family:\"unset\",serif"}**                       **[Population]{style="font-family:\"unset\",serif"}**           **[County]{style="font-family:\"unset\",serif"}**
+  [2]{style="font-family:\"Source Sans Pro\",sans-serif"}    [7]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Cary]{style="font-family:\"Source Sans Pro\",sans-serif"}            [170,282]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Wake, Chatham]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [3]{style="font-family:\"Source Sans Pro\",sans-serif"}    [1]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Charlotte]{style="font-family:\"Source Sans Pro\",sans-serif"}       [885,708]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Mecklenburg]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [4]{style="font-family:\"Source Sans Pro\",sans-serif"}    [10]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Concord]{style="font-family:\"Source Sans Pro\",sans-serif"}         [96,341]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Cabarrus]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [5]{style="font-family:\"Source Sans Pro\",sans-serif"}    [4]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Durham]{style="font-family:\"Source Sans Pro\",sans-serif"}          [278,993]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Durham (seat), Wake, Orange]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [6]{style="font-family:\"Source Sans Pro\",sans-serif"}    [6]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Fayetteville]{style="font-family:\"Source Sans Pro\",sans-serif"}    [211,657]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Cumberland]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [7]{style="font-family:\"Source Sans Pro\",sans-serif"}    [3]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Greensboro]{style="font-family:\"Source Sans Pro\",sans-serif"}      [296,710]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Guilford]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [8]{style="font-family:\"Source Sans Pro\",sans-serif"}    [9]{style="font-family:\"Source Sans Pro\",sans-serif"}    [High Point]{style="font-family:\"Source Sans Pro\",sans-serif"}      [112,791]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Guilford, Randolph, Davidson, Forsyth]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [9]{style="font-family:\"Source Sans Pro\",sans-serif"}    [2]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Raleigh]{style="font-family:\"Source Sans Pro\",sans-serif"}         [474,069]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Wake (seat), Durham]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [10]{style="font-family:\"Source Sans Pro\",sans-serif"}   [8]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Wilmington]{style="font-family:\"Source Sans Pro\",sans-serif"}      [123,784]{style="font-family:\"Source Sans Pro\",sans-serif"}   [New Hanover]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  [11]{style="font-family:\"Source Sans Pro\",sans-serif"}   [5]{style="font-family:\"Source Sans Pro\",sans-serif"}    [Winston-Salem]{style="font-family:\"Source Sans Pro\",sans-serif"}   [247,945]{style="font-family:\"Source Sans Pro\",sans-serif"}   [Forsyth]{style="font-family:\"Source Sans Pro\",sans-serif"}
+  ---------------------------------------------------------- ---------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------------------- ---------------------------------------------------------------------------------------------
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Alphabetize
+range]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Sort
+range]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Name
+range]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[Organize
+range]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[You can use sort range to alphabetize the county names in column D.
+Sorting a range of data from A to Z helps data analysts organize and
+find data more quickly.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-8 style="margin:0cm;background:white"}
+
+### [9. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[You are querying a database of manufacturing company suppliers. The column name for supplier identification numbers is supplier_id. What is the correct clause to retrieve only data about the supplier with identification number 85317?]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#you-are-querying-a-database-of-manufacturing-company-suppliers.-the-column-name-for-supplier-identification-numbers-is-supplier_id.-what-is-the-correct-clause-to-retrieve-only-data-about-the-supplier-with-identification-number-85317 style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[FROM
+supplier_id
+85317]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[WHERE
+supplier_id =
+85317]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[SELECT
+supplier_id
+85317]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[COLUMN
+supplier_id =
+85317]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[The correct clause is WHERE supplier_id = 85317. This clause tells the
+database to return only information about the supplier whose ID is
+85317.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+### [ ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"} {#section-9 style="margin:0cm;background:white"}
+
+### [10. ]{style="font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}[Imagine you are sharing your data with a company stakeholder. Why might you display data with a data visualization instead of a table? Select all that apply.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"} {#imagine-you-are-sharing-your-data-with-a-company-stakeholder.-why-might-you-display-data-with-a-data-visualization-instead-of-a-table-select-all-that-apply. style="margin:0cm;background:white"}
+
+[**[1 / 1 point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F;letter-spacing:-.1pt"}**]{.cds-731}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It's
+easy to
+understand]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[When sharing data with others, you might use a data visualization
+instead of a table because visualizations are more aesthetically
+pleasing, save time when identifying trends, and are easier to
+understand.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+thoroughly describes each data
+point]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It's
+aesthetically
+pleasing]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[When sharing data with others, you might use a data visualization
+instead of a table because visualizations are more aesthetically
+pleasing, save time when identifying trends, and are easier to
+understand.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+
+[]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Arial\",sans-serif;color:#333333"}[It
+helps them identify trends more
+quickly]{style="font-size:10.5pt;line-height:107%;font-family:\"Source Sans Pro\",sans-serif;
+color:#1F1F1F"}
+
+**[Correct]{style="font-size:10.5pt;
+line-height:107%;font-family:\"Source Sans Pro\",sans-serif;color:#1D7C50;
+letter-spacing:-.1pt"}**
+
+[When sharing data with others, you might use a data visualization
+instead of a table because visualizations are more aesthetically
+pleasing, save time when identifying trends, and are easier to
+understand.]{style="font-size:10.5pt;
+font-family:\"Source Sans Pro\",sans-serif;color:#1F1F1F"}
+:::
