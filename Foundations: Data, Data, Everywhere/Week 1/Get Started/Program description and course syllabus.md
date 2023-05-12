@@ -1,4 +1,5 @@
-# Program Description and Course Syllabus
+  # Program Description and Course Syllabus
+<img align="centre" width="1050" src="https://github.com/Paramjit46/Google-Data-Analytics-Professional-Certificate/blob/main/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Week%201/Get%20Started/Welcome.png">
 
 ## Welcome to the Google Data Analytics Certificate
 
@@ -14,7 +15,8 @@ During each course of the program, you will complete lots of hands-on assignment
 
 The entire program has eight courses. This is the first course, and it covers about five weeks of material.
 
-A list of all 8 courses and their titles. Course 1 (Foundations: data, data, everywhere) is highlighted.
+<img align="centre" width="1050" src="https://github.com/Paramjit46/Google-Data-Analytics-Professional-Certificate/blob/main/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Week%201/Get%20Started/Course%20Overview.png">
+
 
 - Foundations: Data, Data, Everywhere (this course)
 - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
