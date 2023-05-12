@@ -17,7 +17,7 @@ The entire program has eight courses. This is the first course, and it covers ab
 A list of all 8 courses and their titles. Course 1 (Foundations: data, data, everywhere) is highlighted.
 
 - Foundations: Data, Data, Everywhere (this course)
-- Ask Questions to Make Data-Driven Decisions
+- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome)
 - Prepare Data for Exploration
 - Process Data from Dirty to Clean
 - Analyze Data to Answer Questions
